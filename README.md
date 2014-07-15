@@ -1,4 +1,4 @@
-Download the `default.cfg` config file and copy it into the following folder:
+Download the [default.cfg](https://raw.githubusercontent.com/thomaserlang/cs-1.6-config/master/default.cfg) config file and copy it into the following folder:
 
     C:\Program Files (x86)\Steam\SteamApps\common\Half-Life\cstrike
     
