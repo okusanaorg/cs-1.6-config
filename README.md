@@ -10,5 +10,5 @@ Then edit either your `config.cfg` or `userconfig.cfg` file with notepad and pas
     
 Thanks to lurppis and onscreenlol for the settings.
 
-http://www.hltv.org/blog/6570-configuring-post-updates-cs-16
+http://www.hltv.org/blog/6570-configuring-post-updates-cs-16    
 http://steamcommunity.com/sharedfiles/filedetails/?id=126383209
